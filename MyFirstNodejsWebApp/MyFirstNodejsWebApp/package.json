@@ -1,0 +1,10 @@
+{
+  "name": "MyFirstNodejsWebApp",
+  "version": "0.0.0",
+  "description": "MyFirstNodejsWebApp",
+  "main": "server.js",
+  "author": {
+    "name": "HansJakup",
+    "email": ""
+  }
+}
